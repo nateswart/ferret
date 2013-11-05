@@ -1,0 +1,6 @@
+username = "my_username"
+password = "my_password"
+repo_owner = "my_repo_owner"
+repo = "my_repo"
+filepath = "my_filepath"
+branch = "my_branch"
